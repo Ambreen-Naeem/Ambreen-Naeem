@@ -1,44 +1,106 @@
-💻 Ambreen Naeem
+# 💻 Ambreen Naeem
 
-Aspiring AI Engineer | Full Stack Developer | Computer Science @ Iqra University
+**Aspiring AI Engineer | Full Stack Developer | Computer Science @ Iqra University**
 
-Email LinkedIn GitHub
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ambreen.naeem47@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ambreen-naeem-b30a32329)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
 
-🎯 About Me
+---
 
-Computer Science student at Iqra University (CGPA: 3.87/4.0) building ML and full-stack projects. Currently ML Intern at
+## **🎯 About Me**
 
-Arch Technologies working on NLP and computer vision.
+Computer Science student at **Iqra University** (**CGPA: 3.87/4.0**) with hands-on experience in **Machine Learning, NLP, Computer Vision, and Full-Stack Development**.
 
-Focus Areas: Machine Learning • NLP • Computer Vision • Full Stack Development
+Currently serving as an **ML Intern at Arch Technologies**, working on AI solutions involving **Natural Language Processing** and **Computer Vision**.
 
-🛠️ Tech Stack
+**Focus Areas:** Machine Learning • NLP • Computer Vision • Full Stack Development
 
-Languages: Python • Java • C++ • JavaScript • SQL
+---
 
-ML/AI: TensorFlow • Scikit-learn • NLP • Computer Vision
+## **🛠️ Tech Stack**
 
-Web: React • Flask • Django • HTML/CSS
+### **💻 Languages**
+- Python
+- Java
+- C++
+- JavaScript
+- SQL
 
-Tools: Git • VS Code • Pandas • NumPy
+### **🤖 ML / AI**
+- TensorFlow
+- Scikit-learn
+- NLP
+- Computer Vision
 
-📌 Featured Projects 
+### **🌐 Web Development**
+- React
+- Flask
+- Django
+- HTML
+- CSS
 
-🎓 Study Buddy - Full Stack Web App Collaborative learning platform | Flask REST API • React • SQLAlchemy 
-📧 Email Spam Classification - NLP Model Spam detector achieving 94% accuracy | Scikit-learn • TF-IDF 
-🎯 MNIST Digit Recognition - Computer Vision Handwritten digit classifier | 98.5% accuracy | TensorFlow CNN 
-💬 AI Chatbot - DSA Project Pattern-matching chatbot | C++ • Trie Data Structure 
-🎵 Music Player - Desktop App Python GUI music player | Tkinter • Pygame 
-🎫 Event Management System - Web App Event booking platform | JavaScript • HTML/CSS • MySQL
+### **🧰 Tools**
+- Git
+- VS Code
+- Pandas
+- NumPy
 
-🏆 Achievements 
+---
 
-🥇 Merit Scholarship (CGPA 3.87/4.0) - Iqra University 
-📜 HP LIFE: AI for Beginners | Data Science and Analytics
-🤖 Certificate Of Management Excellence(𝗜𝗖𝗧𝗜𝗦𝗧 𝟮𝟬𝟮𝟲).
-🚀 MLSA-BSEAS: Prompt Engineering Workshop | Agentic AI Workshop
+## **📌 Featured Projects**
 
-📊 Stats Top Languages
+### 🎓 Study Buddy – Full Stack Web App
+Collaborative learning platform using **Flask REST API**, **React**, and **SQLAlchemy**.
 
-🔗 Let's Connect Looking for collaborators or want to discuss ML/Web dev? Reach out! 
-Email: your-ambreen.naeem47@gmail.com | LinkedIn: www.linkedin.com/in/ambreen-naeem-b30a32329
+### 📧 Email Spam Classification – NLP Model
+Spam detector achieving **94% accuracy** using **Scikit-learn** and **TF-IDF**.
+
+### 🎯 MNIST Digit Recognition – Computer Vision
+Handwritten digit classifier achieving **98.5% accuracy** using **TensorFlow CNN**.
+
+### 💬 AI Chatbot – DSA Project
+Pattern-matching chatbot built with **C++** and **Trie Data Structure**.
+
+### 🎵 Music Player – Desktop App
+Python GUI music player developed with **Tkinter** and **Pygame**.
+
+### 🎫 Event Management System – Web App
+Event booking platform built with **JavaScript**, **HTML/CSS**, and **MySQL**.
+
+---
+
+## **🏆 Achievements**
+
+🥇 Merit Scholarship – **Iqra University** (CGPA **3.87/4.0**)
+
+📜 HP LIFE
+- AI for Beginners
+- Data Science and Analytics
+
+🤖 Certificate of Management Excellence (ICTIST 2026)
+
+🚀 Microsoft Learn Student Ambassadors (MLSA)
+- Prompt Engineering Workshop
+- Agentic AI Workshop
+
+---
+
+## **📊 GitHub Stats**
+
+<!-- GitHub Stats -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## **🔗 Let's Connect**
+
+Looking for collaborators or want to discuss **AI, Machine Learning, or Full-Stack Development**? Feel free to connect!
+
+📧 **Email:** [ambreen.naeem47@gmail.com](mailto:ambreen.naeem47@gmail.com)
+
+💼 **LinkedIn:** https://www.linkedin.com/in/ambreen-naeem-b30a32329
+
+💻 **GitHub:** https://github.com/YOUR_GITHUB_USERNAME
