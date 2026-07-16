@@ -89,9 +89,9 @@ Event booking platform built with **JavaScript**, **HTML/CSS**, and **MySQL**.
 ## **📊 GitHub Stats**
 
 <!-- GitHub Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ambreen-Naeem&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ambreen-Naeem&layout=compact&theme=tokyonight)
 
 ---
 
@@ -103,4 +103,4 @@ Looking for collaborators or want to discuss **AI, Machine Learning, or Full-Sta
 
 💼 **LinkedIn:** https://www.linkedin.com/in/ambreen-naeem-b30a32329
 
-💻 **GitHub:** https://github.com/YOUR_GITHUB_USERNAME
+💻 **GitHub:** https://github.com/Ambreen-Naeem
