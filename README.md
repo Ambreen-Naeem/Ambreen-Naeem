@@ -1,4 +1,5 @@
 💻 Ambreen Naeem
+
 Aspiring AI Engineer | Full Stack Developer | Computer Science @ Iqra University
 
 ![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)
@@ -6,14 +7,24 @@ Aspiring AI Engineer | Full Stack Developer | Computer Science @ Iqra University
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ---
 🎯 About Me
-Computer Science student at Iqra University (CGPA: 3.87/4.0) building ML and full-stack projects. Currently ML Intern at Arch Technologies working on NLP and computer vision.
+
+Computer Science student at Iqra University (CGPA: 3.87/4.0) building ML and full-stack projects. Currently ML Intern at 
+
+Arch Technologies working on NLP and computer vision.
+
 Focus Areas: Machine Learning • NLP • Computer Vision • Full Stack Development
+
 ---
 🛠️ Tech Stack
+
 Languages: Python • Java • C++ • JavaScript • SQL
+
 ML/AI: TensorFlow • Scikit-learn • NLP • Computer Vision
+
 Web: React • Flask • Django • HTML/CSS
+
 Tools: Git • VS Code • Pandas • NumPy
+
 ---
 📌 Featured Projects
 🎓 Study Buddy - Full Stack Web App
