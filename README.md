@@ -86,14 +86,11 @@ Event booking platform built with **JavaScript**, **HTML/CSS**, and **MySQL**.
 
 ---
 
-## **📊 GitHub Stats**
+## 📊 GitHub Activity
 
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ambreen-Naeem&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ambreen-Naeem&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
----
+- 💻 Building AI & Full-Stack projects
+- 🌱 **Currently learning:** React, FastAPI, Docker
+- 🤝 Open to internships and collaboration
 
 ## **🔗 Let's Connect**
 
